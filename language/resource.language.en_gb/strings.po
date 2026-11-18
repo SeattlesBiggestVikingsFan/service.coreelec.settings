@@ -1544,7 +1544,7 @@ msgid "Exclude persistent logs from backups"
 msgstr ""
 
 msgctxt "#33533"
-msgid "When persistent logging is enabled, omit its log folder from backups. Logging settings and Kodi logs are still included."
+msgid "Exclude persistent system logs from backups. Kodi logs and logging settings are still included."
 msgstr ""
 
 msgctxt "#32537"
@@ -1552,7 +1552,7 @@ msgid "Wi-Fi throughput profile"
 msgstr ""
 
 msgctxt "#914"
-msgid "Use alternative tuning for the built-in Wi-Fi. This may improve transfer rates, but can increase CPU load or affect playback. Off by default. Restart CoreELEC to apply changes."
+msgid "May improve built-in Wi-Fi speeds. Higher CPU use can affect playback. Restart CoreELEC to apply."
 msgstr ""
 
 msgctxt "#33534"
